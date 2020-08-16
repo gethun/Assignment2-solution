@@ -91,11 +91,10 @@ padding: 0px 10px;
     }
     .col-md-2 { 
         width: 50%;
-        height:50% ;
+        height: 50%;
     }
     .col-md-3 { 
         width: 100%;
-    
     }
 }
 
